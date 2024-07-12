@@ -40,7 +40,7 @@ This project analyses bank loan data, including loan issue date, status, payment
 
 ![image](https://github.com/user-attachments/assets/49bd5539-992f-4bea-ac25-797fd26c817f)
 
-![image](https://github.com/user-attachments/assets/08d74af9-882d-4131-94ef-3b6451cc71bc)
+![image](https://github.com/user-attachments/assets/79009323-f190-45be-aaf5-95e90cdb4b6b)
 
 <b>5. Project Deliverables</b>
 - Power BI Dashboard: Developed an interactive Power BI dashboard featuring:
